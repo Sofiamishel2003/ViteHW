@@ -1,0 +1,9 @@
+.animated-name {
+    display: inline-block;
+    transition: transform 2s ease-in-out;
+  }
+  
+  .animate {
+    transform: scale(1.2); /* Escala el nombre para animarlo */
+  }
+  
